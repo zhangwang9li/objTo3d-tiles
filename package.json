@@ -37,7 +37,7 @@
     "yargs": "^10.0.3"
   },
   "devDependencies": {
-    "eslint": "^4.9.0",
+    "eslint": "^8.39.0",
     "eslint-config-cesium": "^2.0.1"
   }
 }
